@@ -1,0 +1,12 @@
+{
+  "name": "parlel",
+  "description": "Search people, companies, and open roles on Parlel, an open professional network.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Parlel",
+    "url": "https://parlel.com"
+  },
+  "homepage": "https://parlel.com/search.md",
+  "repository": "https://github.com/Parlel/parlel-mcp",
+  "license": "MIT"
+}

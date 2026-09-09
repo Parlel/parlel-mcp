@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "parlel": {
+      "url": "https://api.parlel.com/mcp"
+    }
+  }
+}
