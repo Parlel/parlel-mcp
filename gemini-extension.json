@@ -1,0 +1,10 @@
+{
+  "name": "parlel",
+  "version": "1.0.0",
+  "description": "Search people, companies, and open roles on Parlel, an open professional network. Free, no API key.",
+  "mcpServers": {
+    "parlel": {
+      "url": "https://api.parlel.com/mcp"
+    }
+  }
+}

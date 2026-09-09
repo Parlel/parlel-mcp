@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "parlel",
+  "version": "1.0.0",
+  "description": "Search people, companies, and open roles on Parlel, an open professional network. Free, no API key."
+}
