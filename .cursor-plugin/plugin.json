@@ -1,0 +1,22 @@
+{
+  "name": "parlel",
+  "version": "1.0.1",
+  "description": "Search people, companies, and open roles on Parlel, an open professional network. Free, no API key.",
+  "author": {
+    "name": "Parlel",
+    "email": "hello@parlel.com"
+  },
+  "homepage": "https://parlel.com/search.md",
+  "repository": "https://github.com/Parlel/parlel-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "jobs",
+    "hiring",
+    "recruiting",
+    "people-search",
+    "companies",
+    "professional-network"
+  ],
+  "logo": "logo.png"
+}

@@ -1,4 +1,5 @@
 ---
+name: find-candidates
 description: Source candidates on Parlel by skills, location, and availability.
 ---
 

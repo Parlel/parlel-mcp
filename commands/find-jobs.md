@@ -1,4 +1,5 @@
 ---
+name: find-jobs
 description: Search open roles on Parlel by title, seniority, arrangement, and pay.
 ---
 
